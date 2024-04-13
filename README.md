@@ -18,4 +18,3 @@
 
 So, yep, just look around, open an issue, raise a PR, fork something. 
 
-Things, sometimes conveyed, become less apparent.
