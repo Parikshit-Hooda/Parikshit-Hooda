@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning system design
 - 👯 I’m looking to collaborate on side projects on JavaScript stack
 - 🤔 I’m looking for help with interview prep
-- 💬 Ask me about Angular, React, .NET
+- 💬 Ask me about Angular, React, .NET, Java
 - 📫 How to reach me: phooda804@gmail.com(I know I should get one that sounds profesional; trust me I know)
 
 So, yep, just look around, open an issue, raise a PR, fork something. 
